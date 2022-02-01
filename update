@@ -1,6 +1,7 @@
 [
   {
     "Mandatory": true,
-    "update": true
+    "update": true,
+    "vers": "1.1.1"
   }
 ]
