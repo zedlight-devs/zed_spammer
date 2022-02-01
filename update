@@ -1,7 +1,7 @@
 [
   {
-    "Mandatory": true,
-    "update": true,
-    "vers": "1.1.2"
+    "Mandatory": false,
+    "update": false,
+    "vers": "1.1.1"
   }
 ]
